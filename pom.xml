@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.eruka</groupId>
-	<artifactId>ElectricEurekaAdmin</artifactId>
+	<artifactId>electricEurekaAdmin</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>ElectricEurekaAdmin</name>
+	<name>electricEurekaAdmin</name>
 	<description>Gateway service for microservice</description>
 	<properties>
 		<java.version>11</java.version>
